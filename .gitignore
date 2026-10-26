@@ -1,0 +1,22 @@
+# ROS 2 generated files
+build/
+install/
+log/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE settings
+.vscode/
+.idea/
+
+# Temporary files
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
